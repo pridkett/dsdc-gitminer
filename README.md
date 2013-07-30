@@ -1,6 +1,12 @@
 dsdc-gitminer
 ===================
 
+This is the collection of scripts and other fun stuff to go along with my
+July 30, 2013 talk at Data Science DC entitled "Abusing the GitHub API and Graph
+Databases to Gain Insight About Your Project".
+
+<iframe src="https://docs.google.com/presentation/d/1zsql-8WPX52tB_ghxxDYga-_bKQESZKcCzjpl-qmO7s/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 A [GitMiner][GitMiner] sample dataset collected around the [Julia][Julia]
 programming language. This data was originally collected for the July 2013 Data
 Science DC Meetup.
