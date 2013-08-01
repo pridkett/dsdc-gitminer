@@ -65,8 +65,9 @@ a lot easier.
 Getting the Julia Project Data
 ------------------------------
 
-The data is contained in a 500MiB tarball. Unfortuantely, GitHub no longer allows me to
-store these files there, so it's up on S3. Running the following commands should download
+The data is stored as a Neo4j database that is compressed into a 500MiB
+tarball. Unfortuantely, GitHub no longer allows me to store these files there,
+so it's up on S3. Running the following commands should download
 and unpack the data:
 
     curl http://s3.wagstrom.net/julia.graph.db.tar.gz -o julia.graph.db.tar.gz
